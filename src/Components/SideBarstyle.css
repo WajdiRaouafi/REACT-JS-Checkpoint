@@ -1,0 +1,14 @@
+.side{
+    background-color: grey;
+    width: 300px;
+    position:fixed ;
+    top:0;
+    left:0;
+    bottom: 0;
+    padding-top: 200px;
+}
+.title:hover{
+    background-color: white;
+    color : black;
+    cursor: pointer;
+}
